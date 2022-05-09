@@ -1,0 +1,14 @@
+body{
+  margin: 0; 
+  padding: 0;
+  background-color:#f0f2f5 ; 
+}
+
+.cabeca{
+    max-width: 980px;
+    margin: 0 auto;
+}
+
+img{
+    max-width: 240px;
+}
